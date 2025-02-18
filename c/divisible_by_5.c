@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void check_divisibility(int num) {
-    // Expected output is "TRUE" or "FALSE"
+    
 }
 
 int main() {
